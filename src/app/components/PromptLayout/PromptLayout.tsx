@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from "react";
 import TextInput from "../TextInput/TextInput";
 import { Switch, Box } from "@mui/material";
